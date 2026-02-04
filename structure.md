@@ -1,3 +1,6 @@
+# Project Structure
+
+```text
 market-sentiment-impact-analysis/
 │
 ├── data/
@@ -19,3 +22,4 @@ market-sentiment-impact-analysis/
 │
 ├── requirements.txt
 └── README.md
+```
